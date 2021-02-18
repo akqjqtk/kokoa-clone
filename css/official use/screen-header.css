@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 23px;
     padding-top: 40px;
 }
 
@@ -13,4 +13,8 @@
 
 .header__icons span {
     margin-left: 32px;
+}
+
+.friends__screen {
+    padding: 0px 23px
 }

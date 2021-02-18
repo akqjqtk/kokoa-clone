@@ -2,6 +2,7 @@
 @import "official use/status-bar.css";
 @import "official use/nav-bar.css";
 @import "official use/screen-header.css";
+@import "official use/user-component.css";
 
 @import "screens/login.css";
 @import "screens/friends.css";
