@@ -43,9 +43,17 @@
 
 .user-component__column:last-child {
     color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
 
 .user-component__avatar-etc {
     width: 60px;
     height: 60px;
+}
+
+.user-component__time {
+    margin-bottom: 10px;
+    display: block;
 }
