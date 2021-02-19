@@ -4,6 +4,7 @@
     align-items: center;
     padding: 23px;
     padding-top: 40px;
+    margin-bottom: 10px;
 }
 
 .header__title {
@@ -15,6 +16,6 @@
     margin-left: 32px;
 }
 
-.friends__screen {
+.main-screen {
     padding: 0px 23px
 }
