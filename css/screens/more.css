@@ -1,0 +1,13 @@
+.more-screen .find-icons {
+    margin-top: 35px;
+}
+
+.more-suggestions {
+    margin-top: 50px;
+    border-top: 1.5px solid rgba(0, 0, 0, 0.2);
+    padding-top: 40px;
+}
+
+.more-suggestions__title {
+    margin-bottom: 30px;
+}
