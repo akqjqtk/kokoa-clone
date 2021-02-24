@@ -58,3 +58,22 @@
     margin-bottom: 10px;
     display: block;
 }
+
+.user-component__column {
+    align-items: center;
+}
+
+.user-component__e-mail {
+    display: flex;
+    align-items: center;
+}
+
+.user-component__text span {
+    border: 1px solid red;
+    padding: 1px 5px 0px 5px;
+    margin-top: 6px;
+    border-radius: 50%;
+    color: red;
+    margin-left: 3px;
+    font-size: 15px;
+}
