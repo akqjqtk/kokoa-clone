@@ -4,11 +4,13 @@
 @import "official use/screen-header.css";
 @import "official use/user-component.css";
 @import "official use/badge.css";
+@import "official use/alt-screen-header.css";
 
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
 @import "screens/more.css";
+@import "screens/settings.css";
 
 @import "reset.css";
 @import "variables.css";
