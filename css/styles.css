@@ -5,6 +5,7 @@
 @import "official use/user-component.css";
 @import "official use/badge.css";
 @import "official use/alt-screen-header.css";
+@import "official use/no-mobile.css";
 
 @import "screens/login.css";
 @import "screens/friends.css";

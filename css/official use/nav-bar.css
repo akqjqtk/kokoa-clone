@@ -43,9 +43,12 @@
     }
 }
 
+.nav__notification:hover {
+    animation: notificationAnimation 3s ease-in-out infinite;
+}
+
 .nav__notification {
     position: absolute;
     left: 20px;
     bottom: 10px;
-    animation: notificationAnimation 3s ease-in-out infinite;
 }
