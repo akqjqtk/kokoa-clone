@@ -1,3 +1,3 @@
-# new Kokoa clone
+# Kakao
 
-New kokoa clone
+Kakao
